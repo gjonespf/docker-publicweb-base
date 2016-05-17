@@ -1,0 +1,3 @@
+[submodule "docker-publicweb"]
+	path = docker-publicweb
+	url = http://git-azure.powerfarming.co.nz/gavin.jones/docker-publicweb.git
