@@ -1,7 +1,3 @@
-#sudo docker build -t powareverb/usedproductws .
-#sudo docker run -d --name usedproductws-upload -e VIRTUAL_HOST=usedproductws-upload.powerfarming.co.nz -e VIRTUAL_PORT=8080 -p 8080:80 -v usedproductws-storage:/app/data powareverb/usedproductws-upload
-#sudo docker run -it -v usedproductws-storage:/mnt/storage busybox /bin/sh
-
 FROM tutum/apache-php
 ENV ALLOW_OVERRIDE true
 
