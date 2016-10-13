@@ -1,4 +1,4 @@
-FROM tutum/apache-php
+FROM gavinjonespf/apache-php
 ENV ALLOW_OVERRIDE true
 
 #Apache defaults for publicweb
