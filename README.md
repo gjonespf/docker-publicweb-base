@@ -1,4 +1,3 @@
 # docker-publicweb-base
 
-Bump 
-3
+Customised PHP image for public websites
